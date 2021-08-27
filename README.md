@@ -2,7 +2,7 @@
 <html lang="en">
 <img src="ASSIGNMENTIVLOGOMADEWITHILLUSTRATOR.svg" alt="ASSIGNMENTIVLOGOMADEWITHILLUSTRATOR" width="500" height="1000">
 
-<body style="background-color:white;"><img src="/Users/albertchang/Desktop/ALBERT CHANG III UNDERSTANDING/GANGSTAR (1).jpg" alt="GANGSTAR" width="1000" height="600">
+<body style="background-color:white;"><img src="GANGSTAR.jpg" alt="GANGSTAR" width="1000" height="600">
 
 </body>
 	<head> 
@@ -10,12 +10,6 @@
 	<title>My portfolio</title> 
 	<h1>Welcome to my portfolio</h1> 
 	Welcome to my personal portfolio. Feel free to enjoy.</p> </body> </html>
-<html>
-<body>
-
-<h1>HTML Links</h1>
-
-<p><a href="https://changstar26.github.io/jdtoolkit-homepage/">Home</a></p>
 
 </body>
 </html>
@@ -37,8 +31,7 @@ a:hover, a:active {
 </style>
 
 <ul>
-  <li><a href="index.html">Homepage</a></li>  
-  <li><a href="AssignmentI.html">Assignment I: WEBSITE ON GITHUB PAGES</a></li>
+  <li><a href.html"Homepage.html>Homepage/Assignment I</a></li>
   <li><a href="AssignmentII.html">Assignment II: BASIC PHOTO EDITING</a></li>
   <li><a href="AssignmentIII.html">Assignment III: PHOTO EDITING WITH PHOTOSHOP</a></li>
   <li><a href="AssignmentIV.html">Assignment IV: LOGO MADE WITH ILLUSTRATOR</a><li>
@@ -55,19 +48,8 @@ a:hover, a:active {
 <h1 style="background-color:powderblue;">This is a heading</h1>
 <p style="background-color:tomato;">This is a paragraph.</p>
 
-<p>Browsers usually indent blockquote elements.</p>
-
-<blockquote cite="http://www.worldwildlife.org/who/index.html">
-For nearly 60 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by more than one million members in the United States and close to five million globally.
-</blockquote>
-
-
 <address>
 Written by ALBERT CHANG III.<br>
-Visit us at:<br>
-https://www.instagram.com/altheplug/?hl=en<br>
-Box 564, Disneyland<br>
-USA
 </address>
 
 <style>
@@ -164,8 +146,6 @@ Booklet</p>
 <html>
 <body>
 
-<h1 style="background-color:White;">Video</h1>
-
 <p style="background-color:white;">
 
 </p>
@@ -198,15 +178,6 @@ My art is special to me because it makes me happy.
 <html>
 <body>
 
-<h2>Absolute URLs</h2>
-<p><a href="https://www.w3.org/">W3C</a></p>
-<p><a href="https://www.google.com/">Google</a></p>
-<p><a href="html_images.asp">HTML Images</a></p>
-<p><a href="/css/default.asp">CSS Tutorial</a></p>
-
-</body>
-</html>
-
-<body style="background-color:white;"><img src="/Users/albertchang/Desktop/ALBERT CHANG III UNDERSTANDING/GANGSTAR (1).jpg" alt="GANGSTAR" width="1000" height="600">
+<body style="background-color:white;"><img src="GANGSTAR.jpg" alt="GANGSTAR" width="1000" height="600">
 
 <img src="creativeimage.jpg" alt="creativeimage.jpg" width="500" height="1000">
